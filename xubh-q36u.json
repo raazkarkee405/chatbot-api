@@ -1,0 +1,280 @@
+[{
+        "id": "0",
+        "hospital_name": "B.P.Eye Foundation- Children's Hospital for Eye Ear and Rehabilitation Services(CHEERS)",
+        "address": "Manohara- Bhaktapur- Nepal",
+        "city": "Bhaktapur",
+        "contact": "01-6631705- 6639736",
+        "email": "cheers_bpef@yahoo.com- bpeye04@yahoo.com",
+        "website": "www:bpeyefoundation.org"
+    },
+    {
+        "id": "1",
+        "hospital_name": "B & B Hospital Pvt. Ltd",
+        "address": "Gwarko- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-5531933- 5531930 Fax:01-5528526",
+        "email": "bbhospital@wlink.com.np",
+        "website": "www.bbhospital.com.np"
+    },
+    {
+        "id": "2",
+        "hospital_name": "Bhaktapur Cancer Hospital",
+        "address": "Bhaktapur- Nepal",
+        "city": "Bhaktapur",
+        "contact": "01-6614430- 6611532- 6620941Fax:01-6610941",
+        "email": "bccc@wlink.com.np",
+        "website": "www.bhaktapurcancerhospital.org"
+    },
+    {
+        "id": "3",
+        "hospital_name": "Bir Hospital",
+        "address": "Tundikhel- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4221119",
+        "email": "",
+        "website": "www.birhospital.awardspace.info"
+    },
+    {
+        "id": "4",
+        "hospital_name": "Shree Birendra Hospital",
+        "address": "Chhauni- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4271940- 4271941- 4278607Fax:01-4285620",
+        "email": "bh@nepalarmy.mil.np",
+        "website": "www.birendrahospital.mil.np"
+    },
+    {
+        "id": "5",
+        "hospital_name": "Nepal Police Hospital",
+        "address": "Maharajgunj- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4412430- 4412530- 4412630Fax:01-4435153",
+        "email": "nph@nepalpolice.gov.np",
+        "website": "http://nph.nepalpolice.gov.np"
+    },
+    {
+        "id": "6",
+        "hospital_name": "B.P. Koirala Institute of Health Sciences",
+        "address": "Dharan- Nepal",
+        "city": "Dharan",
+        "contact": "025-525555",
+        "email": "bpkihs@bpkihs.edu",
+        "website": "www.bpkihs.edu"
+    },
+    {
+        "id": "7",
+        "hospital_name": "B.P. Koirala Memorial Cancer Hospital",
+        "address": "Bharatpur- Nepal",
+        "city": "Bharatpur",
+        "contact": "056-524501 Fax:056-523747",
+        "email": "admin@bpkmch.org.np",
+        "website": "http://www.bpkmch.org.np/"
+    },
+    {
+        "id": "8",
+        "hospital_name": "Civil Service Hospital",
+        "address": "Minbhawan- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4107000- 4107002Fax:01-4107003",
+        "email": "info@civilservicehospital.org",
+        "website": "www.civilservicehospital.org"
+    },
+    {
+        "id": "9",
+        "hospital_name": "Chitwan Medical College Teaching Hospital",
+        "address": "Bharatpur 10- Chitwan- Nepal",
+        "city": "Bharatpur",
+        "contact": "056-532933Fax:056-592364",
+        "email": "info@cmc.edu.np",
+        "website": "www.cmc.edu.np"
+    },
+    {
+        "id": "10",
+        "hospital_name": "Dhulikhel Hospital Kathmandu University Hospital",
+        "address": "Kavre- Nepal",
+        "city": "Kavre",
+        "contact": "011-490497Fax:011-490707",
+        "email": "dhos@mail.com.np",
+        "website": "www.dhulikhelhospital.org"
+    },
+    {
+        "id": "11",
+        "hospital_name": "Kantipur Dental College",
+        "address": "Basundhara- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4385910- 4385911 Fax:01-4385912",
+        "email": "kdchktm@gmail.com",
+        "website": "www.kantipurdental.edu.np"
+    },
+    {
+        "id": "12",
+        "hospital_name": "Kanti Children's Hospital",
+        "address": "Maharajgunj- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4411140",
+        "email": "info@kantichildrenhospital.gov.np",
+        "website": "www.kantichildrenhospital.gov.np"
+    },
+    {
+        "id": "13",
+        "hospital_name": "Kathmandu Hospital Pvt. Ltd",
+        "address": "Tripureshwor- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4229656- 4262194- 4261018Fax:01-4263130",
+        "email": "ktmhospi@ccsl.com",
+        "website": ""
+    },
+    {
+        "id": "14",
+        "hospital_name": "Kathmandu Medical College Teaching Hospital (KMC)",
+        "address": "Sinamangal- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4476152- 4469064Fax:01-4477920",
+        "email": "info@kmc.edu.np",
+        "website": "www.kmc.edu.np"
+    },
+    {
+        "id": "15",
+        "hospital_name": "Kathmandu Model Hospital",
+        "address": "Bagbazar- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4240806",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": "16",
+        "hospital_name": "KIST Medical College",
+        "address": "Imadol- Lalitpur- Nepal",
+        "city": "Lalitpur",
+        "contact": "01-5201682 Fax:01-5201496",
+        "email": "info@kistmcth.edu.np",
+        "website": "http://kistmcth.edu.np/"
+    },
+    {
+        "id": "17",
+        "hospital_name": "Mental Hospital",
+        "address": "Lagankhel- Lalitpur- Nepal",
+        "city": "Lalitpur",
+        "contact": "01-552133- 5521612",
+        "email": "",
+        "website": "http://mhl.org.np/"
+    },
+    {
+        "id": "18",
+        "hospital_name": "Miteri Hospital",
+        "address": "Bagbazar- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4269555",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": "19",
+        "hospital_name": "National Cancer Hospital",
+        "address": "Jawalakhel- Lalitpur- Nepal",
+        "city": "Lalitpur",
+        "contact": "01-5553376- 5536133- 5551376",
+        "email": "",
+        "website": "www.nationalcancerhospital.org"
+    },
+    {
+        "id": "20",
+        "hospital_name": "National Dental Hospital",
+        "address": "Lazimpat- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4410438- 4436311- 4433697",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": "21",
+        "hospital_name": "Nepal Medical College Pvt.Ltd (NMC)",
+        "address": "Jorpati- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4911008Fax:01-4912118",
+        "email": "principal@nmcth.edu",
+        "website": "www.nmcth.edu"
+    },
+    {
+        "id": "22",
+        "hospital_name": "National Tuberculosis Center",
+        "address": "Thimi- Bhaktapur- Nepal",
+        "city": "Bhaktapur",
+        "contact": "01-6630706Fax:01-6635986",
+        "email": "",
+        "website": "http://nepalntp.gov.np/"
+    },
+    {
+        "id": "23",
+        "hospital_name": "Norvic International Hospital",
+        "address": "Thapathali- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4258554Fax:01-4219686",
+        "email": "ravisharma@norvic.wlink.com.np",
+        "website": "www.norvichospital.com"
+    },
+    {
+        "id": "24",
+        "hospital_name": "Nepal Orthopaedic Hospital",
+        "address": "Jorpati- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4911725- 4911274- 4910505Fax:01-4911274",
+        "email": "neporth@mos.com.np",
+        "website": "www.noh.org.np"
+    },
+    {
+        "id": "25",
+        "hospital_name": "Om Hospital & Research Centre (P.) Ltd",
+        "address": "Chabahil- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-4482484Fax:01-4466128",
+        "email": "omhrc@wlink.com.np",
+        "website": "http://www.omhospitalnepal.com/"
+    },
+    {
+        "id": "26",
+        "hospital_name": "Palpa Mission Hospital",
+        "address": "Palpa- Nepal",
+        "city": "Palpa",
+        "contact": "075-520111- 520958",
+        "email": "",
+        "website": "www.tansenhospital.org.np"
+    },
+    {
+        "id": "27",
+        "hospital_name": "Patan Hospital",
+        "address": "Lagankhel- Lalitpur- Nepal",
+        "city": "Lalitpur",
+        "contact": "01-5522295Fax:01-5548008",
+        "email": "info@patanhospital.org.np",
+        "website": "www.patanhospital.org.np"
+    },
+    {
+        "id": "28",
+        "hospital_name": "SAARC Tuberculosis and HIV/AIDS Centre",
+        "address": "Thimi- Bhaktapur- Nepal",
+        "city": "Bhaktapur",
+        "contact": "01-6632601- 6631048- 6632477 Fax:01-6634379",
+        "email": "saarctb@mos.com.np",
+        "website": "www.saarctb.org"
+    },
+    {
+        "id": "29",
+        "hospital_name": "Shubhatara Hospital & Research Center Pvt. Ltd",
+        "address": "Mahalaxmisthan- Lalitpur- Nepal",
+        "city": "Lalitpur",
+        "contact": "01-5523420",
+        "email": "",
+        "website": "www.shrc.com.np"
+    },
+    {
+        "id": "30",
+        "hospital_name": "T. U. Teaching Hospital",
+        "address": "Maharajgunj- Kathmandu- Nepal",
+        "city": "Kathmandu",
+        "contact": "01-412505- 412303- 412605",
+        "email": "",
+        "website": "www.teachinghospital.org.np"
+    }
+]
